@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/Elevator_System.iml" filepath="$PROJECT_DIR$/Elevator_System.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Elevator_System.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Elevator_System.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Elevator_System.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Elevator_System.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File_System.iml" filepath="$PROJECT_DIR$/File_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/File_System.main.iml" filepath="$PROJECT_DIR$/.idea/modules/File_System.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/File_System.test.iml" filepath="$PROJECT_DIR$/.idea/modules/File_System.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vending_Machine.iml" filepath="$PROJECT_DIR$/Vending_Machine.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Vending_Machine.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Vending_Machine.main.iml" />

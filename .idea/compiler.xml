@@ -5,6 +5,9 @@
       <module name="Elevator_System" target="21" />
       <module name="Elevator_System.main" target="21" />
       <module name="Elevator_System.test" target="21" />
+      <module name="File_System" target="21" />
+      <module name="File_System.main" target="21" />
+      <module name="File_System.test" target="21" />
       <module name="Vending_Machine" target="21" />
       <module name="Vending_Machine.main" target="21" />
       <module name="Vending_Machine.test" target="21" />
