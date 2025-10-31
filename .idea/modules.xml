@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/File_System.main.iml" filepath="$PROJECT_DIR$/.idea/modules/File_System.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/File_System.test.iml" filepath="$PROJECT_DIR$/.idea/modules/File_System.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SplitWise.iml" filepath="$PROJECT_DIR$/SplitWise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SplitWise.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SplitWise.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SplitWise.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SplitWise.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vending_Machine.iml" filepath="$PROJECT_DIR$/Vending_Machine.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Vending_Machine.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Vending_Machine.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Vending_Machine.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Vending_Machine.test.iml" />

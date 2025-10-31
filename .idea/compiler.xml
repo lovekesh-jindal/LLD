@@ -8,6 +8,9 @@
       <module name="File_System" target="21" />
       <module name="File_System.main" target="21" />
       <module name="File_System.test" target="21" />
+      <module name="SplitWise" target="21" />
+      <module name="SplitWise.main" target="21" />
+      <module name="SplitWise.test" target="21" />
       <module name="Vending_Machine" target="21" />
       <module name="Vending_Machine.main" target="21" />
       <module name="Vending_Machine.test" target="21" />
